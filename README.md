@@ -1,0 +1,1 @@
+I put this repository together as an example of how I might organize repositories in the future. It is based on data provided by Rafael Irizarry through his dslabs package.
